@@ -1,0 +1,17 @@
+﻿<Properties StartupItem="Droid/CompositeUI.Droid.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Android.Nexus 4 (Jelly Bean)" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Droid/NewCustomButtonRenderer.cs">
+    <Files>
+      <File FileName="Droid/NewCustomButtonRenderer.cs" Line="1" Column="1" />
+      <File FileName="Droid/MainActivity.cs" Line="1" Column="1" />
+      <File FileName="CompositeUI/NewCompositeButton.cs" Line="1" Column="1" />
+      <File FileName="CompositeUI/NewButton.cs" Line="1" Column="1" />
+      <File FileName="CompositeUI/CompositeUI.cs" Line="1" Column="1" />
+      <File FileName="CompositeUI/Login.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
